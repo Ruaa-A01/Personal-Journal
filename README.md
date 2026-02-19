@@ -26,7 +26,7 @@ OR Start A Simple HTTP Server (recommended for some browser features):
 
 ```bash
 python3 -m http.server 8000
-# then open http://localhost:8000 in your browser
+# Then Open http://localhost:8000 In Your Browser
 ```
 
 ## Features

@@ -35,7 +35,7 @@ python3 -m http.server 8000
 - View the example screenshot of the project below.
 
 ### Personal Journal Image
-<img src="screenshots/personaljournal.png" alt="Personal Journal Image" width="1000"/>
+<img src="screenshots/personaljournal.png" alt="Personal Journal Image" width="800"/>
 
 ---
 

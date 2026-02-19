@@ -9,7 +9,7 @@ This project is a fully client-side journaling app developed with plain HTML, CS
 - `script.js` — App Logic
 - `screenshots/` — Example Screenshots
 
-## Run locally
+## Run Locally
 
 1. Clone The Repository:
 
@@ -32,7 +32,9 @@ python3 -m http.server 8000
 ## Features
 
 - Static single-page app using `index.html`, `script.js`, & `style.css`.
-- View the example screenshot of the project below:
+- View the example screenshot of the project below.
+
+### Personal Journal Image
 <img src="screenshots/personaljournal.png" alt="Personal Journal Image" width="1000"/>
 
 ---

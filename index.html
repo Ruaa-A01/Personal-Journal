@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Personal Digital Journal</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header class="header">
+    <h1>My Journal</h1>
+    <p class="date" id="currentDate"></p>
+  </header>
+
+  <main class="journal-container">
+
+    <section class="journal-entry">
+      <h2>New Entry</h2>
+      <textarea
+        id="entryText"
+        placeholder="Write your thoughts here..."></textarea>
+      <button id="saveEntry">Save Entry</button>
+    </section>
+
+    <section class="entries-list">
+      <h2>Past Entries</h2>
+      <div id="entries"></div>
+    </section>
+
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
